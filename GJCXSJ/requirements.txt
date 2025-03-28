@@ -1,0 +1,10 @@
+```
+  --index-url https://pysimplegui.net/install
+  PySimpleGUI
+  spacy
+  pandas
+  matplotlib
+  wordcloud
+  textdescriptives
+  scikit-learn
+```
